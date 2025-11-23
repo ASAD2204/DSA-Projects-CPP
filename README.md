@@ -455,20 +455,7 @@ By exploring these projects, you will gain:
 
 ---
 
-## 💡 Interview Questions These Projects Help Answer
 
-| Interview Question | Relevant Project |
-|--------------------|------------------|
-| "Implement an LRU Cache" | #5 (Text Editor - similar stack pattern) |
-| "Design a task scheduler with priorities" | #3 (ToDo Priority) |
-| "Find top K frequent elements" | #10 (Word Analyzer) |
-| "Validate balanced parentheses" | #4 (Parentheses Checker) |
-| "Find shortest path in a maze" | #8 (Maze Solver - BFS) |
-| "Implement autocomplete/prefix search" | #2 (Contact Book) |
-| "Design a music player queue" | #6 (Playlist Manager) |
-| "Implement undo/redo functionality" | #5 (Text Editor) |
-
----
 
 ## 🤝 Contributing
 
@@ -486,7 +473,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Asad**  
 - GitHub: [@ASAD2204](https://github.com/ASAD2204)
-- Institution: BS IT (4th Semester)
+- BS IT (4th Semester) PUGC
 
 ---
 
