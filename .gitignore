@@ -1,0 +1,71 @@
+# Compiled Object files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Executables
+a.out
+*.exe
+student_manager
+student_manager.exe
+contact_book
+contact_book.exe
+todo_manager
+todo_manager.exe
+paren_checker
+paren_checker.exe
+text_editor
+text_editor.exe
+playlist_manager
+playlist_manager.exe
+library_manager
+library_manager.exe
+maze_solver
+maze_solver.exe
+sorting_visualizer
+sorting_visualizer.exe
+word_analyzer
+word_analyzer.exe
+app
+app.exe
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# IDEs
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Data files (optional - remove if you want to include sample data)
+*.csv
+*.txt
+*.dat
+
+# Build directories
+build/
+bin/
+obj/
